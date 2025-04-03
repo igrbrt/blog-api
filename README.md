@@ -71,15 +71,25 @@ The API offers the following endpoints:
    ```
 
 7. **Access the API**:
+   
    The API will be available at `http://localhost:3000/api`
 
 8. **Access the API Documentation**:
+    
    The documentation will be available at `http://localhost:3000/api/documentation`
 
-9. **Running tests**:
+11. **Running tests**:
    ```bash
    pnpm test
    ```
+
+![image](https://github.com/user-attachments/assets/73b61b7f-3dd8-453b-b58a-23ce2225d0ad)
+
+![image](https://github.com/user-attachments/assets/4e0b4a18-985d-4ec9-b903-2a6b3218ec01)
+
+![image](https://github.com/user-attachments/assets/429fb21a-4cec-4b16-a63a-1270087dbe03)
+
+
 
 ## Data Models
 
